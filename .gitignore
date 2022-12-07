@@ -1,0 +1,13 @@
+# my twitter keys
+twitter_keys.json
+
+# files to ignore when uploading to github
+
+# virtual environment
+venv/
+
+# cache with any username 
+.cache-*
+
+# my jupyter notebook checkpoints
+.ipynb_checkpoints/
